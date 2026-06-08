@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VOGUE — Modernist E-Commerce Atelier
 
 A high-end, responsive minimalist e-commerce concept built using React. This digital lookbook application features structured layout symmetries, smooth shopping drawer layers, dynamic catalog grouping, and an architectural luxury brand ecosystem.
