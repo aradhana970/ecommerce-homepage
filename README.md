@@ -25,8 +25,7 @@ Below are the interface layers captured from the active application environment:
 ## 6. Client Feedback & Correspondence Hub
 ![Patron Voices](./public/img7.png)
 
-### 7. Client Feedback & Correspondence Hub
-![Footer & Newsletter System](./public/img7.png)
+
 
 ---
 
