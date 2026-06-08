@@ -17,13 +17,13 @@ Below are the interface layers captured from the active application environment:
 ![Studio Portfolios Details](./public/img3.png)
 
 ### 4. The Seasonal Assemblage Catalog
-![Product Catalog Grid](./public/img4.png)
+![Product Catalog Grid](./public/img5.png)
 
 ### 5. Modernist Manifesto Block
-![Atelier Manifesto View](./public/img5.png)
+![Atelier Manifesto View](./public/img6.png)
 
 ## 6. Client Feedback & Correspondence Hub
-![Patron Voices](./public/img6.png)
+![Patron Voices](./public/img7.png)
 
 ### 7. Client Feedback & Correspondence Hub
 ![Footer & Newsletter System](./public/img7.png)
